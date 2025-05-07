@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Articles - Les Enfants du Vent</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Les Enfants du Vent</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Accueil</a></li>
+        <li><a href="histoire.html">Notre Histoire</a></li>
+        <li><a href="articles.html">Articles</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="intro">
+      <h2>Nos Articles</h2>
+      <div class="products">
+        <div class="product">
+          <img src="images/robe-bleue.jpg" alt="Robe bleue" />
+          <h3>Robe Santorini</h3>
+          <p>Une robe légère en lin bleu inspirée des Cyclades.</p>
+          <p><strong>79 €</strong></p>
+        </div>
+        <div class="product">
+          <img src="images/chemise-lin.jpg" alt="Chemise lin" />
+          <h3>Chemise Vent du Sud</h3>
+          <p>Une chemise en lin blanc, ample et élégante.</p>
+          <p><strong>65 €</strong></p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Les Enfants du Vent. Tous droits réservés.</p>
+  </footer>
+</body>
+</html>
