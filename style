@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  font-family: 'EB Garamond', serif;
+  background-color: #fdfaf5; /* blanc cassé */
+  color: #2e2e2e;
+}
+
+header {
+  text-align: center;
+  padding: 2em 1em;
+  background-color: #fff;
+  border-bottom: 1px solid #ddd;
+}
+
+h1 {
+  font-size: 2.5em;
+  margin-bottom: 0.3em;
+  letter-spacing: 2px;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  gap: 2em;
+}
+
+nav a {
+  text-decoration: none;
+  color: #2e2e2e;
+  font-size: 1.1em;
+  transition: color 0.3s;
+}
+
+nav a:hover {
+  color: #a07040;
+}
+
+main {
+  max-width: 800px;
+  margin: 3em auto;
+  padding: 0 1em;
+  text-align: center;
+}
+
+.intro h2 {
+  font-size: 1.8em;
+  margin-bottom: 1em;
+}
+
+footer {
+  text-align: center;
+  padding: 2em;
+  font-size: 0.9em;
+  background-color: #fff;
+  border-top: 1px solid #ddd;
+}
