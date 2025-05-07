@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Notre Histoire - Les Enfants du Vent</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Les Enfants du Vent</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Accueil</a></li>
+        <li><a href="histoire.html">Notre Histoire</a></li>
+        <li><a href="articles.html">Articles</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="intro">
+      <h2>Notre Histoire</h2>
+      <p>Les Enfants du Vent est née sur les rives de la Méditerranée, inspirée par les traditions, les voyages et la liberté. Chaque vêtement reflète notre amour pour le soleil, les matières naturelles, et les vents du sud.</p>
+      <img src="images/histoire.jpg" alt="Origines de la marque" style="max-width:100%; margin-top:2em;">
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Les Enfants du Vent. Tous droits réservés.</p>
+  </footer>
+</body>
+</html>
